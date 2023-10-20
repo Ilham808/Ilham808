@@ -8,6 +8,7 @@
 
 ![PHP](https://img.shields.io/badge/-PHP-000000?style=flat&logo=PHP)
 ![Javascript](https://img.shields.io/badge/-Javascript-000000?style=flat&logo=Javascript)
+![Golang](https://img.shields.io/badge/-Golang-000000?style=flat&logo=GO)
 ![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=MySQL)
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=CSS3)
@@ -22,7 +23,7 @@
 
 |Github Stats|Languages|
 |---|---|
-|[![](https://github-readme-stats.vercel.app/api?username=Ilham808)](https://github.com/Ilham808)|[![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ilham808&layout=compact)](https://github.com/Ilham808)|
+| [![GitHub Streak](https://streak-stats.demolab.com?user=Ilham808&theme=gotham)](https://git.io/streak-stats) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ilham808&theme=gotham) |
 <!---
 Ilham808/Ilham808 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
