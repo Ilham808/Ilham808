@@ -1,25 +1,54 @@
-### 👋 Hi, I’m Ilham Budiawan Sitorus
-- 👀 I’m interested in PHP, Javascript and PHP Frameworks
-- 🌱 I’m currently learning Golang
-- 📓 I'm studying at Budi Darma University
-- 💥 Informatics Engineering
+# 👋 Hi, I’m Ilham Budiawan Sitorus
 
-🛠 **Tech Stack**
+Hello there! I’m Ilham Budiawan Sitorus, Budi Darma University student majoring in Informatics Engineering with Internship Experience as a Junior Programmer at a software house company, where he successfully contributed to the development of the company's products.
 
-![PHP](https://img.shields.io/badge/-PHP-000000?style=flat&logo=PHP)
-![Javascript](https://img.shields.io/badge/-Javascript-000000?style=flat&logo=Javascript)
-![Golang](https://img.shields.io/badge/-Golang-000000?style=flat&logo=GO)
-![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=MySQL)
-![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
-![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=CSS3)
 
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-000000?style=flat&logo=bootstrap)
-![JQuery](https://img.shields.io/badge/-JQuery-000000?style=flat&logo=JQuery)
-![Laravel](https://img.shields.io/badge/-Laravel-000000?style=flat&logo=Laravel)
-![Codeigniter](https://img.shields.io/badge/-Codeigniter-000000?style=flat&logo=Codeigniter)
-![Yii](https://img.shields.io/badge/-Yii-000000?style=flat&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAAAAXNSR0IArs4c6QAABUBJREFUaEPNWUFPG0cUfm8w9Fgi4Ug91fyAgi0cUlMB9h8ojqo2oodgn3oKMedaZay4vbRVbfwDQn9AVaP2XodKuBijbOCUU82pUqgUIxUlCva8atY2eO317ux6TdgLFjsz733vvW/eN7MIN+hJ783FCWEFEYMIUBp73cjwmFa3chFvgv/pcjhKQE8QMGDwB0HzvW7ErEC8cwDpvbkcID4aGEgbEJcAXqaCQRBiGQmjAGJSXxDlb9CAqA7A6oAkf5f8heOnXmQuXb6zDUBrtmsR5bMLhymzcXj6cCaFCI8IwJg+61XriFi8QMx8kNNqtg6YDLCNfM8cH/imeeSvPlt4uj5TAoBlN07ocwiLNIaZ2zlNU11D1jwA/KE6vjUOf85GDhK9c4YHcLUi9zGWv5Wz3jXk8HQ5LCP5oTMAANlItY+zXgKQ/mjEWNIqG+6i34ZKdC+7cFjsBo7/rs/kCGDwLuA0TAB1ZJScyh0bDHWWUSauud1MNlLlBgAvH36UQMQnzv20nkFEyduF4+3eUely2DXnkGDn8UI1bgDwTyoY8Anxt9cA9PUYi/lzmnT48kmXw7Kzvu/S3tNspCo3gMtHJ8Xp+owrUik4UW8wFureat0SuG3LHMCoyqhtVPNvHYWuOOC+hADAHMCrVHCyIYTMgtvU2iUj49860smXLofl3027CabvTTrylZQYEZnbjlyWEi9/HGhAwxXniGDj24Vqro8DnX+crs/IrW/FVXTsJhEW/YXn91pZmNMAcNZuSu97ITD03ScHho5v6GytUqISADleXMmZ9q709V5Y6q+flOZcDTrJRqp9eq2vNY8YhE5oV2U0QJGangckiKYQ3OMO3YplOwtOy2igGrVKozwjoBCSNO7Var+BHf/WUdxZGZkrUbm00olMAmFCJAhAytmht9oGY9OFz8cnGaNnKjwYFH1lAN1GTlPBKAoRJwCpSRxL4rbR/NTWUUqpK1ucxlwB6Aaj66imiAPqYJTLDAFqU1tH0wrK9MT3phG8lkO9JP5FsxlHRFlmtmCIsVD+C1/UZjuNZSNVgxjsLTklDqjUaW9mxoVIWXKGYCP/5YRsSuZHS5vS6dgbCYDO4npPaYoEIEj900t+vSeky2HqDxA9z0YOgyqBGymAKC8HhPCtPTgvbscvftvo7Ss+xm79eH+s1CMrznxvGgG7G7lrycAS3y8CodRWdUJK/lL/qoZCyJpuZYOxWP6+T2anw5kzITDaq3esMjGyDCzy/TgS/tptnABKa//tJFYuft+RekseOwur7+n3oe1xtqS9FhJH+bNJQRdSMrdu+IxPbfbtiwffnP9QAKBifnVCvt1EwOTjyEHfGdqOByPJwBKvlIAst9L67NsXn26ef/9ZbnWijoA1N84P3cjMorPID1JIpCKVawzHQ9HlJKgS1syepxmI8kpQECjpG90ZpJ1dftdwTWJXMiPlgELpGO3fJACLvJJAAmcXZEiZXX7XcNP2zjKwyPdrSOhInTLEWInfsdQ6doA84YDZnm9nGADOdjPzZtuswtSrIZ4A6Oq46sYR8rt83vSri/oiiicyqwXbTeuVE6O6isDmdIlHXH3d6bY1dAbckdeb6HvSyJZ4ZRsI7D/UtcNGSCdjMBEs8ZDl91/VjA6dgWVe0YhA+SLMi53H0xJa2qyYHEjM40cIyT/5vGPBZpWNoTOgCmAUzg/NARXt06p5jJf4vPJnWNX69wDAQVQQDf7ei5BnMM69IqznatSsB8iII8A2g4ncKB3vgBmaA/ouJL8PA2pjANqw2sZJ+cix/wNk9ztPCLD0wAAAAABJRU5ErkJggg==)
+# 🛠 Tech Stack
 
-✨ **Statistics**
+#### Programming Language
+<div style="display: flex; flex-direction: row;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg" alt="go" width="40" height="40"/>
+</div>
+
+
+#### Frameworks
+<div style="display: flex; flex-direction: row;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1969px-Laravel.svg.png" alt="laravel" width="40" height="40"/>
+    <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yii/yii-original-wordmark.svg" alt="yii" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/>
+</div>
+
+
+#### Databases
+<div style="display: flex; flex-direction: row;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
+</div>
+
+
+#### Other
+<div style="display: flex; flex-direction: row;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="postman" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+</div>
+
+
+## 📫 Connect with me!
+
+<p align="left">
+<a href="https://www.linkedin.com/in/ilham-budiawan-sitorus/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="e" height="30" width="40" /></a>
+<a href="https://instagram.com/budiawanilham04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="e" height="30" width="40" /></a>
+</p>
+
+
+## ✨ Statistics
+
 
 |Github Stats|Languages|
 |---|---|
